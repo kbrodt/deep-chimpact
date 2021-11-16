@@ -1,5 +1,4 @@
 albumentations
-ffmpeg
 ffmpeg_python
 numpy
 pandas
