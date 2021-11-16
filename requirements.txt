@@ -1,0 +1,8 @@
+albumentations
+ffmpeg
+ffmpeg_python
+numpy
+pandas
+scikit_learn
+timm
+tqdm
